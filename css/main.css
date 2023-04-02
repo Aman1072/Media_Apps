@@ -1,0 +1,40 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0;
+}
+
+h2 {
+	margin-top: 20px;
+}
+
+#audioSection,
+#videoSection,
+#imageSection,
+#playlistSection {
+	margin: 20px;
+}
+
+input[type="file"] {
+	display: block;
+	margin: 10px 0;
+}
+
+button {
+	margin: 10px 0;
+}
+
+#playlistList {
+	list-style: none;
+	padding: 0;
+	margin: 10px 0;
+}
+
+#playlistList li {
+	margin: 5px 0;
+}
